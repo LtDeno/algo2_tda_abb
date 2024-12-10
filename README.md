@@ -1,1 +1,1 @@
-Universidad de Buenos Aires, Algorythms and Data Structures. Graded asignment with 1.5 out of 2.0, corrections included in repository.
+Universidad de Buenos Aires, Algorithms and Data Structures. Graded asignment with 1.5 out of 2.0, corrections included in repository.
